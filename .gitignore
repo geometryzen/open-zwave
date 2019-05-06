@@ -52,6 +52,7 @@ ozw_config
 /ozwcache_*.xml
 .idea/
 .idea/*
+.vscode/
 ozw_config
 
 cpp/src/command_classes/\.DS_Store
